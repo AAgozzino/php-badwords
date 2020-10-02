@@ -1,5 +1,6 @@
 <?php
-  $word = "Caso";
+  // Variabile parola
+  $word = $_GET["word"];
 ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
